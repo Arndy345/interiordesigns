@@ -1,0 +1,45 @@
+*,
+body {
+  box-sizing: border-box;
+  font-family: roboto;
+}
+.header {
+  background-color: darkturquoise;
+}
+
+.height {
+  min-width: 20vw;
+  min-height: 20vh;
+}
+
+.icon {
+  width: 3px;
+  height: 40px;
+  margin-bottom: 16px;
+  background-color: white;
+}
+.border {
+  border: 2px solid darkturquoise;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: darkturquoise;
+}
+footer {
+  min-width: 100%;
+}
+.copywright {
+  background-color: darkturquoise;
+}
+.titles {
+  width: 200px;
+  height: 10px;
+  background-color: darkturquoise;
+}
+.main-title {
+  min-height: 50vh;
+  width: 100%;
+}
